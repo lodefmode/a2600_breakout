@@ -4,13 +4,15 @@ Simple PCB to expose all cartridge lines.
 
 Features:
 
- All data and address lines in triplicate (two through holes + one via)
- Standard 0.1" spacing
- Four GND points
- Two VDD points
- Fully labelled
- Double sided (including labels)
- Ground plane
+<ul>
+ <li>All data and address lines in triplicate (two through holes + one via)</li>
+ <li>Standard 0.1" spacing</li>
+ <li>Four GND points</li>
+ <li>Two VDD points</li>
+ <li>Fully labelled</li>
+ <li>Double sided (including labels)</li>
+ <li>Ground plane</li>
+</ul>
 
 
 For inquires please contact:
