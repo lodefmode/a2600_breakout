@@ -1,6 +1,6 @@
 # a2600_breakout
 
-Simple PCB to expose all cartridge lines.
+Simple PCB to expose all cartridge lines on an Atari 2600.
 
 Features:
 
