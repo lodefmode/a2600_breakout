@@ -12,6 +12,7 @@ Features:
  <li>Fully labelled</li>
  <li>Double sided (including labels)</li>
  <li>Ground plane</li>
+ <li>Unlicenced / Public Domain
 </ul>
 
 
