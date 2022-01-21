@@ -6,11 +6,11 @@ Features:
 
 <ul>
  <li>All data and address lines in triplicate (two through holes + one via)</li>
- <li>Standard 0.1" spacing</li>
+ <li>Optional cartridge connector for live monitoring</li>
+ <li>Standard 0.1" spacing throughout</li>
  <li>Four GND points</li>
  <li>Two VDD points</li>
- <li>Fully labelled</li>
- <li>Double sided (including labels)</li>
+ <li>Fully labelled on both sides</li>
  <li>Ground plane</li>
  <li>Unlicenced / Public Domain
 </ul>
