@@ -20,7 +20,7 @@ For inquires please contact:
 
 lodef.mode@gmail.com
 
-![Image](image.png)
+![Image](image.jpg)
 
 
 
