@@ -142,7 +142,7 @@
 </layers>
 <board>
 <plain>
-<text x="20.955" y="22.86" size="1.9304" layer="21" font="vector">COMPONENT/LABEL SIDE
+<text x="21.59" y="23.495" size="1.9304" layer="21" font="vector">COMPONENT/LABEL SIDE
 </text>
 <text x="10.033" y="52.451" size="1.778" layer="21">D0</text>
 <text x="10.033" y="49.911" size="1.778" layer="21">D1</text>
@@ -205,7 +205,7 @@ by exp-lbrs.ulp</description>
 <description>&lt;B&gt;Atari 2600&lt;/B&gt; cartridge breakout board</description>
 <wire x1="20.32" y1="-30.48" x2="20.32" y2="-25.4" width="0" layer="20"/>
 <wire x1="-20.32" y1="-30.48" x2="-20.32" y2="-25.4" width="0" layer="20"/>
-<wire x1="-20.32" y1="-25.4" x2="-30.48" y2="-25.4" width="0" layer="20"/>
+<wire x1="-20.32" y1="-25.4" x2="-28.4" y2="-25.4" width="0" layer="20"/>
 <wire x1="-20.32" y1="-30.48" x2="-16.1925" y2="-35.56" width="0" layer="20"/>
 <wire x1="20.32" y1="-30.48" x2="16.1925" y2="-35.56" width="0" layer="20"/>
 <wire x1="-16.1925" y1="-35.56" x2="-16.1925" y2="-50.8" width="0" layer="20"/>
@@ -285,26 +285,26 @@ by exp-lbrs.ulp</description>
 <smd name="24" x="-13.97" y="-46.99" dx="1.524" dy="6.477" layer="16"/>
 <text x="19.05" y="-49.53" size="1.778" layer="25">&gt;NAME</text>
 <text x="19.05" y="-53.34" size="1.778" layer="27">&gt;VALUE</text>
-<wire x1="35.56" y1="22.86" x2="25.527" y2="22.86" width="0" layer="20"/>
-<wire x1="25.527" y1="22.86" x2="25.527" y2="45.593" width="0" layer="20"/>
-<wire x1="25.527" y1="45.593" x2="20.32" y2="45.593" width="0" layer="20"/>
-<wire x1="20.32" y1="45.593" x2="20.32" y2="22.86" width="0" layer="20"/>
-<wire x1="20.32" y1="22.86" x2="16.1925" y2="22.86" width="0" layer="20"/>
+<wire x1="34.65" y1="22.86" x2="28.2" y2="22.86" width="0" layer="20"/>
+<wire x1="28.2" y1="22.86" x2="28.2" y2="45.593" width="0" layer="20"/>
+<wire x1="28.2" y1="45.593" x2="19.85" y2="45.593" width="0" layer="20"/>
+<wire x1="19.85" y1="45.593" x2="19.85" y2="22.86" width="0" layer="20"/>
+<wire x1="19.85" y1="22.86" x2="16.1925" y2="22.86" width="0" layer="20"/>
 <wire x1="16.1925" y1="22.86" x2="16.1925" y2="45.72" width="0" layer="20"/>
 <wire x1="16.1925" y1="45.72" x2="-16.1925" y2="45.72" width="0" layer="20"/>
 <wire x1="-16.1925" y1="45.72" x2="-16.1925" y2="22.86" width="0" layer="20"/>
-<wire x1="-16.1925" y1="22.86" x2="-20.32" y2="22.86" width="0" layer="20"/>
-<wire x1="-20.32" y1="22.86" x2="-20.32" y2="45.72" width="0" layer="20"/>
-<wire x1="-20.32" y1="45.72" x2="-25.4" y2="45.72" width="0" layer="20"/>
-<wire x1="-25.4" y1="45.72" x2="-25.4" y2="22.86" width="0" layer="20"/>
-<wire x1="-25.4" y1="22.86" x2="-35.56" y2="22.86" width="0" layer="20"/>
-<wire x1="-35.56" y1="22.86" x2="-35.56" y2="-50.8" width="0" layer="20"/>
-<wire x1="35.56" y1="22.86" x2="35.56" y2="-50.8" width="0" layer="20"/>
-<wire x1="-30.48" y1="-25.4" x2="-30.48" y2="-50.8" width="0" layer="20"/>
-<wire x1="-30.48" y1="-50.8" x2="-35.56" y2="-50.8" width="0" layer="20"/>
-<wire x1="20.32" y1="-25.4" x2="30.48" y2="-25.4" width="0" layer="20"/>
-<wire x1="30.48" y1="-25.4" x2="30.48" y2="-50.8" width="0" layer="20"/>
-<wire x1="30.48" y1="-50.8" x2="35.56" y2="-50.8" width="0" layer="20"/>
+<wire x1="-16.1925" y1="22.86" x2="-19.85" y2="22.86" width="0" layer="20"/>
+<wire x1="-19.85" y1="22.86" x2="-19.85" y2="45.72" width="0" layer="20"/>
+<wire x1="-19.85" y1="45.72" x2="-28.2" y2="45.72" width="0" layer="20"/>
+<wire x1="-28.2" y1="45.72" x2="-28.2" y2="22.86" width="0" layer="20"/>
+<wire x1="-28.2" y1="22.86" x2="-34.65" y2="22.86" width="0" layer="20"/>
+<wire x1="-34.65" y1="22.86" x2="-34.65" y2="-54" width="0" layer="20"/>
+<wire x1="34.65" y1="22.86" x2="34.65" y2="-54" width="0" layer="20"/>
+<wire x1="-28.4" y1="-25.4" x2="-28.4" y2="-54" width="0" layer="20"/>
+<wire x1="-28.4" y1="-54" x2="-34.65" y2="-54" width="0" layer="20"/>
+<wire x1="20.32" y1="-25.4" x2="28.4" y2="-25.4" width="0" layer="20"/>
+<wire x1="28.4" y1="-25.4" x2="28.4" y2="-54" width="0" layer="20"/>
+<wire x1="28.4" y1="-54" x2="34.65" y2="-54" width="0" layer="20"/>
 <wire x1="-13.97" y1="44.45" x2="-13.97" y2="50.8" width="1.016" layer="34"/>
 <wire x1="-11.43" y1="44.45" x2="-11.43" y2="50.8" width="1.016" layer="34"/>
 <wire x1="-8.89" y1="44.45" x2="-8.89" y2="50.8" width="1.016" layer="34"/>
@@ -2069,6 +2069,22 @@ design rules under a new name.</description>
 <wire x1="17.78" y1="68.58" x2="48.26" y2="68.58" width="0.1524" layer="16"/>
 <wire x1="48.26" y1="68.58" x2="50.8" y2="66.04" width="0.1524" layer="16"/>
 <wire x1="17.78" y1="68.58" x2="20.32" y2="71.12" width="0.1524" layer="16"/>
+<polygon width="0.1524" layer="16">
+<vertex x="0" y="25.4"/>
+<vertex x="0" y="73.66"/>
+<vertex x="73.66" y="73.66"/>
+<vertex x="73.66" y="25.4"/>
+</polygon>
+<polygon width="0.1524" layer="1">
+<vertex x="0" y="25.4"/>
+<vertex x="0" y="73.66"/>
+<vertex x="73.66" y="73.66"/>
+<vertex x="73.66" y="25.4"/>
+</polygon>
+<via x="7.62" y="66.04" extent="1-16" drill="0.35"/>
+<via x="7.62" y="33.02" extent="1-16" drill="0.35"/>
+<via x="66.04" y="68.58" extent="1-16" drill="0.35"/>
+<via x="66.04" y="30.48" extent="1-16" drill="0.35"/>
 </signal>
 <signal name="VDD">
 <contactref element="J1" pad="23"/>
