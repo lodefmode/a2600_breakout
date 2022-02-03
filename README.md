@@ -6,15 +6,13 @@ Features:
 
 <ul>
  <li>All data and address lines in triplicate (two through holes + one via)</li>
- <li>Optional cartridge connector for live monitoring</li>
+ <li>Optional cartridge connector for live monitoring (socket or edge connected)</li>
  <li>Standard 0.1" spacing throughout</li>
- <li>Four GND points</li>
- <li>Two VDD points</li>
+ <li>GND and VDD points</li>
  <li>Fully labelled on both sides</li>
  <li>Ground plane</li>
  <li>Unlicenced / Public Domain
 </ul>
-
 
 For inquires please contact:
 
