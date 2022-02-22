@@ -5,7 +5,7 @@ Simple PCB to expose all cartridge lines on an Atari 2600.
 Features:
 
 <ul>
- <li>All data and address lines in triplicate (two through holes + one via)</li>
+ <li>Multiple access points for all data and address lines
  <li>Optional cartridge connector for live monitoring (socket or edge connected)</li>
  <li>Standard 0.1" spacing throughout</li>
  <li>GND and VDD points</li>
