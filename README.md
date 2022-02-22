@@ -6,9 +6,9 @@ Features:
 
 <ul>
  <li>Multiple access points for all data and address lines
- (Example: connect duplicate headers for both logic analyzer + breadboarding)
+ <br>(Example: connect duplicate headers for both logic analyzer + breadboarding)
  <li>Optional cartridge connector for live monitoring
- (Connect either a right angle socket connector or solder directly to top edges)</li>
+ <br>(Connect either a right angle socket connector or solder directly to top edges)</li>
  <li>Standard 0.1" spacing throughout</li>
  <li>GND and VDD points</li>
  <li>Fully labelled on both sides</li>
