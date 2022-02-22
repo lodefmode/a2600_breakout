@@ -19,6 +19,8 @@ For inquires please contact:
 lodef.mode@gmail.com
 
 ![Image](image.jpg)
+![Image](pic1.jpg)
+![Image](pic2.jpg)
 
 
 
